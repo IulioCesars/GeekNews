@@ -1,0 +1,46 @@
+
+.background{
+    background-color: #3b3e48;
+    overflow-y: scroll;
+}
+
+.fontwhite{
+    color: white;
+}
+
+.imgpanel{
+    width: 100%;
+    max-height: 230px;
+}
+.imgperfil{
+    border-radius: 5px;
+    max-width: 100px;
+    max-height: 150px;
+}
+
+.imgPortada{
+    min-height: 330px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+.color-white{
+    color: white;
+}
+
+.color-blue{
+    color: blue;
+}
+
+.blank{
+    height: 30px;
+}
+
+.materialcard{
+    background-color: white;
+    border-radius: 15px;
+    min-height: 100px;
+}
+
+
